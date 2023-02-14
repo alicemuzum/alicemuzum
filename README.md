@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Cem Üzüm</h1>
 <h3 align="center">A not just a machine learning developer</h3>
 
-- 🔭 I’m currently working on **Decision Trees**
+- 🔭 I’m currently working on **Deep Learning**
 
 - 📫 How to reach me **aliceemuzum@gmail.com**
 
