@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Cem Üzüm</h1>
 <h3 align="center">Machine Learning Developer</h3>
 
-- 🔭 I’m currently working on **Computer Vision tasks on Medical Images**
-
-- 📫 How to reach me **aliceemuzum@gmail.com**
-
-- ⚡ **“It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers.”**
+Hey, I'm interested in Machine Learning, Computer Vision.
+I have a solid understanding of theory.
+And this is where I apply them :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
